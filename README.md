@@ -1,9 +1,7 @@
 # e-wallet
-Laravel based wallet web app
+NIRX web:wallet - Laravel based wallet dAapp
 
-Want to start Want to start your own wallet to start accepting and managing cash? This project is your best choice.
-
-Clone the repo and have fun.
+Customizable wallet fo managing payment systems. (visit https://wallet.nirxblock.com for diagnostics)
 
 
 <img src="for%20git.JPG">
