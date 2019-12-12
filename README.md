@@ -1,7 +1,7 @@
 # e-wallet
 NIRX web:wallet - Laravel based wallet dAapp
 
-Customizable wallet with integrable functionalities as a model payment system. (In future visit https://wallet.nirxblock.com for diagnostics)
+Customizable wallet with integrable functionalities as a model payment system. (Wallet link; https://wallet.nirxblock.com in devt)
 
 
 <img src="for%20git.JPG">
